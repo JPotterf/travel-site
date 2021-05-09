@@ -1,0 +1,20 @@
+[
+    {
+        "img":"../assets/images/helsinki.jpg",
+        "alt":"Helsinki Cathedral",
+        "name":"Helsinki",
+        "button":"View Destination"
+    },
+    {
+        "img":"../assets/images/northern-lights.jpg",
+        "alt":"Northern Lights",
+        "name":"Lapland",
+        "button":"View Destination"
+    },
+    {
+        "img":"../assets/images/cabin.jpg",
+        "alt":"Cabin in the woods",
+        "name":"Forest Mökki",
+        "button":"View Destination"
+    }
+]
